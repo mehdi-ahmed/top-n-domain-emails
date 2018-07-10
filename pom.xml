@@ -81,7 +81,7 @@
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
                             <mainClass>
-                                com.kahoot.interview.email.TopEmailDomainsMain
+                                com.kahoot.interview.TopEmailDomainsMain
                             </mainClass>
                         </manifest>
                     </archive>
