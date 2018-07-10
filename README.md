@@ -16,7 +16,7 @@
     - Run command ***mvn clean install -U***
     - Run command ***java -jar target/chalenges-1.0-SNAPSHOT.jar*** 
     
- **Explanation : **
+ **Explanation :**
   
   - I generate a CSV file containing random emails with random domain providers.
   - Then I read the file, and then I count the frequency of each domain name.   
