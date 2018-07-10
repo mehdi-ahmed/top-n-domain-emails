@@ -1,4 +1,4 @@
-package com.kahoot.interview.email.util;
+package com.kahoot.interview.util;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;
