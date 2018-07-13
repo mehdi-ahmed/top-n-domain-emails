@@ -6,7 +6,7 @@
  * Steps to run this project from IDE: 
     - Clone project
     - Import to your favorite IDE
-    - Run command ***mvn clean install -U*** to make sure all dependencies are being imported.
+    - Go to Folder and Run command ***mvn clean install -U*** to make sure all dependencies are being imported.
     - Run main Class ***TopnEmailDomainsMain***
  
  * Steps to run this project from the command Line using JAR file: 
