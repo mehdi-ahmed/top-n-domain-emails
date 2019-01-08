@@ -7,7 +7,7 @@ andrew.smith@gmail.com
 
  outputs the 10 domains (or less if there aren't that many) that appear the most often with a count of the number of times it appears after each domain. 
 
-eg. 
+eg.     
 hotmail.com 2553     
 yahoo.com 1315     
 
